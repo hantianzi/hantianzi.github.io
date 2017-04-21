@@ -6,6 +6,7 @@
 	bottom: 50px;
 	right: 10px;
 	background: blue;
+	z-index:9999;
 }
 .fanhui div{
 	width: 75px;
